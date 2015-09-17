@@ -42,6 +42,7 @@ extern struct cardPass
 /* Exported functions ------------------------------------------------------- */
 extern uint8_t exti;
 
-
+void ReadSD(uint8_t adr, uint32_t* write, uint16_t size);
+void WriteSD(uint8_t adr, uint32_t* write, uint16_t size);
 
 #endif /* Sys_Conf */

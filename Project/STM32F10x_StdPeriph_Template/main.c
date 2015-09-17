@@ -42,7 +42,8 @@ extern uint8_t exti;
 __IO extern uint32_t delay;
 
 extern uint32_t readBuffer[basaSise];
-extern void ReadCD(uint8_t , uint32_t* , uint16_t );
+
+//void ReadCD(uint8_t , uint32_t* , uint16_t );
 
 int main(void)
 {

@@ -90,8 +90,7 @@ void WriteOneCardBase();                                // Записывает 1-у карту 
 void DeleteAllBase();                                   // Удаляет всю базу карт
 void DeleteOneCardBase(uint8_t);                        // Удаляет 1-у заданную карту
 
-void ReadSD(uint8_t adr, uint32_t* write, uint16_t size);
-void WriteSD(uint8_t adr, uint32_t* write, uint16_t size);
+
 
 /* Private functions ---------------------------------------------------------*/
 

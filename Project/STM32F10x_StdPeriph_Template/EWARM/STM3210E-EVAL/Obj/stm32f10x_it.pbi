@@ -8034,84 +8034,85 @@
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:10: macro expansion=__IO|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h:116:13 <US>c:macro@__IO<UE> <DS>__IO<DE> Extent=<ES>35:10 - 35:14<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:1: macro expansion=__IO|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h:116:13 <US>c:macro@__IO<UE> <DS>__IO<DE> Extent=<ES>36:1 - 36:5<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:37:1: macro expansion=__IO|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h:116:13 <US>c:macro@__IO<UE> <DS>__IO<DE> Extent=<ES>37:1 - 37:5<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:179:6: macro expansion=USARTy_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:35:11 <US>c:macro@USARTy_IRQHandler<UE> <DS>USARTy_IRQHandler<DE> Extent=<ES>179:6 - 179:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:34: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>181:34 - 181:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:41: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>186:41 - 186:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:32: macro expansion=USART_IT_TXE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:243:9 <US>c:macro@USART_IT_TXE<UE> <DS>USART_IT_TXE<DE> Extent=<ES>191:32 - 191:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:30: macro expansion=USART_IT_TXE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:243:9 <US>c:macro@USART_IT_TXE<UE> <DS>USART_IT_TXE<DE> Extent=<ES>199:30 - 199:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: macro expansion=TIM2|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1380:9 <US>c:macro@TIM2<UE> <DS>TIM2<DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:31: macro expansion=TIM_IT_CC1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:602:9 <US>c:macro@TIM_IT_CC1<UE> <DS>TIM_IT_CC1<DE> Extent=<ES>211:31 - 211:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: macro expansion=TIM2|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1380:9 <US>c:macro@TIM2<UE> <DS>TIM2<DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:88: macro expansion=TIM_IT_CC1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:602:9 <US>c:macro@TIM_IT_CC1<UE> <DS>TIM_IT_CC1<DE> Extent=<ES>211:88 - 211:98<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: macro expansion=LINE2_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:23:9 <US>c:macro@LINE2_On<UE> <DS>LINE2_On<DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: macro expansion=LINE1_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:28:9 <US>c:macro@LINE1_Off<UE> <DS>LINE1_Off<DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>215:53 - 215:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>215:69 - 215:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: macro expansion=LINE3_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:24:9 <US>c:macro@LINE3_On<UE> <DS>LINE3_On<DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: macro expansion=LINE2_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:29:9 <US>c:macro@LINE2_Off<UE> <DS>LINE2_Off<DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>219:53 - 219:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>219:69 - 219:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: macro expansion=LINE4_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:25:9 <US>c:macro@LINE4_On<UE> <DS>LINE4_On<DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: macro expansion=LINE3_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:30:9 <US>c:macro@LINE3_Off<UE> <DS>LINE3_Off<DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>223:53 - 223:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>223:69 - 223:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: macro expansion=LINE5_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:26:9 <US>c:macro@LINE5_On<UE> <DS>LINE5_On<DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: macro expansion=LINE4_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:31:9 <US>c:macro@LINE4_Off<UE> <DS>LINE4_Off<DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>227:53 - 227:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>227:69 - 227:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: macro expansion=LINE1_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:22:9 <US>c:macro@LINE1_On<UE> <DS>LINE1_On<DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: macro expansion=LINE5_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:32:9 <US>c:macro@LINE5_Off<UE> <DS>LINE5_Off<DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>231:53 - 231:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>231:69 - 231:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: macro expansion=CDcard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:38:11 <US>c:macro@CDcard<UE> <DS>CDcard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:40: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>240:40 - 240:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:61: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>241:61 - 241:63<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:44: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>242:44 - 242:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:56: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>243:56 - 243:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:26: macro expansion=text_PKD_1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:59:9 <US>c:macro@text_PKD_1<UE> <DS>text_PKD_1<DE> Extent=<ES>246:26 - 246:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:40: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>248:40 - 248:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: macro expansion=USART3|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1395:9 <US>c:macro@USART3<UE> <DS>USART3<DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:31: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>267:31 - 267:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:25: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>275:25 - 275:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>278:32 - 278:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>279:32 - 279:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>280:32 - 280:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:37: macro expansion=CODE_ONE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:16:9 <US>c:macro@CODE_ONE<UE> <DS>CODE_ONE<DE> Extent=<ES>284:37 - 284:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:37: macro expansion=CODE_THREE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:18:9 <US>c:macro@CODE_THREE<UE> <DS>CODE_THREE<DE> Extent=<ES>285:37 - 285:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:37: macro expansion=CODE_FIVE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:20:9 <US>c:macro@CODE_FIVE<UE> <DS>CODE_FIVE<DE> Extent=<ES>286:37 - 286:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:37: macro expansion=CODE_SEVEN|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:22:9 <US>c:macro@CODE_SEVEN<UE> <DS>CODE_SEVEN<DE> Extent=<ES>287:37 - 287:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: macro expansion=CODE_NINE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:24:9 <US>c:macro@CODE_NINE<UE> <DS>CODE_NINE<DE> Extent=<ES>288:37 - 288:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:25: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>294:25 - 294:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>297:32 - 297:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>298:32 - 298:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>299:32 - 299:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:37: macro expansion=CODE_TWO|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:17:9 <US>c:macro@CODE_TWO<UE> <DS>CODE_TWO<DE> Extent=<ES>303:37 - 303:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:37: macro expansion=CODE_FOUR|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:19:9 <US>c:macro@CODE_FOUR<UE> <DS>CODE_FOUR<DE> Extent=<ES>304:37 - 304:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:37: macro expansion=CODE_SIX|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:21:9 <US>c:macro@CODE_SIX<UE> <DS>CODE_SIX<DE> Extent=<ES>305:37 - 305:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:37: macro expansion=CODE_EIGHT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:23:9 <US>c:macro@CODE_EIGHT<UE> <DS>CODE_EIGHT<DE> Extent=<ES>306:37 - 306:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: macro expansion=CODE_ZERO|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:25:9 <US>c:macro@CODE_ZERO<UE> <DS>CODE_ZERO<DE> Extent=<ES>307:37 - 307:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:25: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>313:25 - 313:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>316:32 - 316:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>317:32 - 317:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>318:32 - 318:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:37: macro expansion=CODE_ARROW_LEFT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:26:9 <US>c:macro@CODE_ARROW_LEFT<UE> <DS>CODE_ARROW_LEFT<DE> Extent=<ES>322:37 - 322:52<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:37: macro expansion=CODE_CANCEL|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:29:9 <US>c:macro@CODE_CANCEL<UE> <DS>CODE_CANCEL<DE> Extent=<ES>323:37 - 323:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:37: macro expansion=CODE_MENU|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:30:9 <US>c:macro@CODE_MENU<UE> <DS>CODE_MENU<DE> Extent=<ES>324:37 - 324:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:37: macro expansion=CODE_STOP|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:28:9 <US>c:macro@CODE_STOP<UE> <DS>CODE_STOP<DE> Extent=<ES>325:37 - 325:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: macro expansion=CODE_ENTER|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:31:9 <US>c:macro@CODE_ENTER<UE> <DS>CODE_ENTER<DE> Extent=<ES>326:37 - 326:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:28: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>334:28 - 334:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:25: macro expansion=EXTI_Line3|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:106:9 <US>c:macro@EXTI_Line3<UE> <DS>EXTI_Line3<DE> Extent=<ES>336:25 - 336:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:32: macro expansion=EXTI_Line3|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:106:9 <US>c:macro@EXTI_Line3<UE> <DS>EXTI_Line3<DE> Extent=<ES>338:32 - 338:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:28: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>344:28 - 344:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:25: macro expansion=EXTI_Line4|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:107:9 <US>c:macro@EXTI_Line4<UE> <DS>EXTI_Line4<DE> Extent=<ES>346:25 - 346:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:32: macro expansion=EXTI_Line4|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:107:9 <US>c:macro@EXTI_Line4<UE> <DS>EXTI_Line4<DE> Extent=<ES>348:32 - 348:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:28: macro expansion=basaSise|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:12:9 <US>c:macro@basaSise<UE> <DS>basaSise<DE> Extent=<ES>46:28 - 46:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:182:6: macro expansion=USARTy_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:35:11 <US>c:macro@USARTy_IRQHandler<UE> <DS>USARTy_IRQHandler<DE> Extent=<ES>182:6 - 182:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:34: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>184:34 - 184:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:41: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>189:41 - 189:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:32: macro expansion=USART_IT_TXE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:243:9 <US>c:macro@USART_IT_TXE<UE> <DS>USART_IT_TXE<DE> Extent=<ES>194:32 - 194:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: macro expansion=USARTy|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:28:14 <US>c:macro@USARTy<UE> <DS>USARTy<DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:30: macro expansion=USART_IT_TXE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:243:9 <US>c:macro@USART_IT_TXE<UE> <DS>USART_IT_TXE<DE> Extent=<ES>202:30 - 202:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: macro expansion=TIM2|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1380:9 <US>c:macro@TIM2<UE> <DS>TIM2<DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:31: macro expansion=TIM_IT_CC1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:602:9 <US>c:macro@TIM_IT_CC1<UE> <DS>TIM_IT_CC1<DE> Extent=<ES>214:31 - 214:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: macro expansion=TIM2|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1380:9 <US>c:macro@TIM2<UE> <DS>TIM2<DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:88: macro expansion=TIM_IT_CC1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:602:9 <US>c:macro@TIM_IT_CC1<UE> <DS>TIM_IT_CC1<DE> Extent=<ES>214:88 - 214:98<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: macro expansion=LINE2_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:23:9 <US>c:macro@LINE2_On<UE> <DS>LINE2_On<DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: macro expansion=LINE1_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:28:9 <US>c:macro@LINE1_Off<UE> <DS>LINE1_Off<DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>218:53 - 218:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>218:69 - 218:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: macro expansion=LINE3_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:24:9 <US>c:macro@LINE3_On<UE> <DS>LINE3_On<DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: macro expansion=LINE2_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:29:9 <US>c:macro@LINE2_Off<UE> <DS>LINE2_Off<DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>222:53 - 222:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>222:69 - 222:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: macro expansion=LINE4_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:25:9 <US>c:macro@LINE4_On<UE> <DS>LINE4_On<DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: macro expansion=LINE3_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:30:9 <US>c:macro@LINE3_Off<UE> <DS>LINE3_Off<DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>226:53 - 226:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>226:69 - 226:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: macro expansion=LINE5_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:26:9 <US>c:macro@LINE5_On<UE> <DS>LINE5_On<DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: macro expansion=LINE4_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:31:9 <US>c:macro@LINE4_Off<UE> <DS>LINE4_Off<DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>230:53 - 230:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>230:69 - 230:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: macro expansion=LINE1_On|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:22:9 <US>c:macro@LINE1_On<UE> <DS>LINE1_On<DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: macro expansion=LINE5_Off|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:32:9 <US>c:macro@LINE5_Off<UE> <DS>LINE5_Off<DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:53: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>234:53 - 234:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:69: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>234:69 - 234:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: macro expansion=CDcard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:38:11 <US>c:macro@CDcard<UE> <DS>CDcard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:40: macro expansion=OFF|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:47:9 <US>c:macro@OFF<UE> <DS>OFF<DE> Extent=<ES>243:40 - 243:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:61: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>244:61 - 244:63<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:44: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>245:44 - 245:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:56: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>246:56 - 246:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:26: macro expansion=text_PKD_1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:59:9 <US>c:macro@text_PKD_1<UE> <DS>text_PKD_1<DE> Extent=<ES>249:26 - 249:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:40: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>251:40 - 251:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: macro expansion=USART3|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1395:9 <US>c:macro@USART3<UE> <DS>USART3<DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:31: macro expansion=USART_IT_RXNE|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:245:9 <US>c:macro@USART_IT_RXNE<UE> <DS>USART_IT_RXNE<DE> Extent=<ES>271:31 - 271:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:25: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>279:25 - 279:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>282:32 - 282:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>283:32 - 283:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>284:32 - 284:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: macro expansion=CODE_ONE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:16:9 <US>c:macro@CODE_ONE<UE> <DS>CODE_ONE<DE> Extent=<ES>288:37 - 288:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:37: macro expansion=CODE_THREE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:18:9 <US>c:macro@CODE_THREE<UE> <DS>CODE_THREE<DE> Extent=<ES>289:37 - 289:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:37: macro expansion=CODE_FIVE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:20:9 <US>c:macro@CODE_FIVE<UE> <DS>CODE_FIVE<DE> Extent=<ES>290:37 - 290:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:37: macro expansion=CODE_SEVEN|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:22:9 <US>c:macro@CODE_SEVEN<UE> <DS>CODE_SEVEN<DE> Extent=<ES>291:37 - 291:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:37: macro expansion=CODE_NINE|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:24:9 <US>c:macro@CODE_NINE<UE> <DS>CODE_NINE<DE> Extent=<ES>292:37 - 292:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:25: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>298:25 - 298:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>301:32 - 301:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>302:32 - 302:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>303:32 - 303:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: macro expansion=CODE_TWO|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:17:9 <US>c:macro@CODE_TWO<UE> <DS>CODE_TWO<DE> Extent=<ES>307:37 - 307:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:37: macro expansion=CODE_FOUR|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:19:9 <US>c:macro@CODE_FOUR<UE> <DS>CODE_FOUR<DE> Extent=<ES>308:37 - 308:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:37: macro expansion=CODE_SIX|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:21:9 <US>c:macro@CODE_SIX<UE> <DS>CODE_SIX<DE> Extent=<ES>309:37 - 309:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:37: macro expansion=CODE_EIGHT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:23:9 <US>c:macro@CODE_EIGHT<UE> <DS>CODE_EIGHT<DE> Extent=<ES>310:37 - 310:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:37: macro expansion=CODE_ZERO|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:25:9 <US>c:macro@CODE_ZERO<UE> <DS>CODE_ZERO<DE> Extent=<ES>311:37 - 311:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:25: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>317:25 - 317:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:32: macro expansion=EXTI_Line0|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:103:9 <US>c:macro@EXTI_Line0<UE> <DS>EXTI_Line0<DE> Extent=<ES>320:32 - 320:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:32: macro expansion=EXTI_Line1|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:104:9 <US>c:macro@EXTI_Line1<UE> <DS>EXTI_Line1<DE> Extent=<ES>321:32 - 321:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:32: macro expansion=EXTI_Line2|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:105:9 <US>c:macro@EXTI_Line2<UE> <DS>EXTI_Line2<DE> Extent=<ES>322:32 - 322:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: macro expansion=CODE_ARROW_LEFT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:26:9 <US>c:macro@CODE_ARROW_LEFT<UE> <DS>CODE_ARROW_LEFT<DE> Extent=<ES>326:37 - 326:52<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:37: macro expansion=CODE_CANCEL|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:29:9 <US>c:macro@CODE_CANCEL<UE> <DS>CODE_CANCEL<DE> Extent=<ES>327:37 - 327:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:37: macro expansion=CODE_MENU|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:30:9 <US>c:macro@CODE_MENU<UE> <DS>CODE_MENU<DE> Extent=<ES>328:37 - 328:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:37: macro expansion=CODE_STOP|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:28:9 <US>c:macro@CODE_STOP<UE> <DS>CODE_STOP<DE> Extent=<ES>329:37 - 329:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:37: macro expansion=CODE_ENTER|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:31:9 <US>c:macro@CODE_ENTER<UE> <DS>CODE_ENTER<DE> Extent=<ES>330:37 - 330:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:28: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>338:28 - 338:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:25: macro expansion=EXTI_Line3|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:106:9 <US>c:macro@EXTI_Line3<UE> <DS>EXTI_Line3<DE> Extent=<ES>340:25 - 340:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:32: macro expansion=EXTI_Line3|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:106:9 <US>c:macro@EXTI_Line3<UE> <DS>EXTI_Line3<DE> Extent=<ES>342:32 - 342:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:28: macro expansion=ON|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:46:9 <US>c:macro@ON<UE> <DS>ON<DE> Extent=<ES>348:28 - 348:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:25: macro expansion=EXTI_Line4|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:107:9 <US>c:macro@EXTI_Line4<UE> <DS>EXTI_Line4<DE> Extent=<ES>350:25 - 350:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:32: macro expansion=EXTI_Line4|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:107:9 <US>c:macro@EXTI_Line4<UE> <DS>EXTI_Line4<DE> Extent=<ES>352:32 - 352:42<EE>
 <L><invalid loc>:2:15: TypedefDecl=__builtin_va_list|<invalid loc>:2:15 (Definition) <US><UE> <DS>char *<DE> Extent=<ES>2:1 - 2:32<EE>
 <L>D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:167:14: EnumDecl=IRQn|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:167:14 (Definition) <US>c:@E@IRQn<UE> <DS>IRQn<DE> Extent=<ES>167:9 - 472:2<EE>
 <L>D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:170:3: EnumConstantDecl=NonMaskableInt_IRQn|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:170:3 (Definition) <US>c:@E@IRQn@NonMaskableInt_IRQn<UE> <DS>NonMaskableInt_IRQn<DE> Extent=<ES>170:3 - 170:36<EE>
@@ -14564,18 +14565,18 @@
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:49:13: TypeRef=uint8_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:17:28 (Reference) <US>c:stdint.h@340@T@uint8_t<UE> <DS>unsigned char<DE> Extent=<ES>49:13 - 49:20<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:50:21: VarDecl=RxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:50:21 (Declaration) <US>c:@RxCounter<UE> <DS>RxCounter<DE> Extent=<ES>50:1 - 50:30<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:50:13: TypeRef=uint8_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:17:28 (Reference) <US>c:stdint.h@340@T@uint8_t<UE> <DS>unsigned char<DE> Extent=<ES>50:13 - 50:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:54:6: FunctionDecl=NMI_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:77:6 (Declaration) <US>c:@F@NMI_Handler<UE> <DS>void NMI_Handler(void)<DE> Extent=<ES>54:1 - 54:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:55:6: FunctionDecl=HardFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:86:6 (Declaration) <US>c:@F@HardFault_Handler<UE> <DS>void HardFault_Handler(void)<DE> Extent=<ES>55:1 - 55:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:56:6: FunctionDecl=MemManage_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:99:6 (Declaration) <US>c:@F@MemManage_Handler<UE> <DS>void MemManage_Handler(void)<DE> Extent=<ES>56:1 - 56:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:57:6: FunctionDecl=BusFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:112:6 (Declaration) <US>c:@F@BusFault_Handler<UE> <DS>void BusFault_Handler(void)<DE> Extent=<ES>57:1 - 57:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:58:6: FunctionDecl=UsageFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:125:6 (Declaration) <US>c:@F@UsageFault_Handler<UE> <DS>void UsageFault_Handler(void)<DE> Extent=<ES>58:1 - 58:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:59:6: FunctionDecl=SVC_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:138:6 (Declaration) <US>c:@F@SVC_Handler<UE> <DS>void SVC_Handler(void)<DE> Extent=<ES>59:1 - 59:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:60:6: FunctionDecl=DebugMon_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:147:6 (Declaration) <US>c:@F@DebugMon_Handler<UE> <DS>void DebugMon_Handler(void)<DE> Extent=<ES>60:1 - 60:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:61:6: FunctionDecl=PendSV_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:156:6 (Declaration) <US>c:@F@PendSV_Handler<UE> <DS>void PendSV_Handler(void)<DE> Extent=<ES>61:1 - 61:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:62:6: FunctionDecl=SysTick_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:165:6 (Declaration) <US>c:@F@SysTick_Handler<UE> <DS>void SysTick_Handler(void)<DE> Extent=<ES>62:1 - 62:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:63:6: FunctionDecl=TIM2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:209:6 (Declaration) <US>c:@F@TIM2_IRQHandler<UE> <DS>void TIM2_IRQHandler(void)<DE> Extent=<ES>63:1 - 63:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:64:6: FunctionDecl=EXTI3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:332:6 (Declaration) <US>c:@F@EXTI3_IRQHandler<UE> <DS>void EXTI3_IRQHandler(void)<DE> Extent=<ES>64:1 - 64:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:65:6: FunctionDecl=EXTI4_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:6 (Declaration) <US>c:@F@EXTI4_IRQHandler<UE> <DS>void EXTI4_IRQHandler(void)<DE> Extent=<ES>65:1 - 65:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:54:6: FunctionDecl=NMI_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:80:6 (Declaration) <US>c:@F@NMI_Handler<UE> <DS>void NMI_Handler(void)<DE> Extent=<ES>54:1 - 54:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:55:6: FunctionDecl=HardFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:89:6 (Declaration) <US>c:@F@HardFault_Handler<UE> <DS>void HardFault_Handler(void)<DE> Extent=<ES>55:1 - 55:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:56:6: FunctionDecl=MemManage_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:102:6 (Declaration) <US>c:@F@MemManage_Handler<UE> <DS>void MemManage_Handler(void)<DE> Extent=<ES>56:1 - 56:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:57:6: FunctionDecl=BusFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:115:6 (Declaration) <US>c:@F@BusFault_Handler<UE> <DS>void BusFault_Handler(void)<DE> Extent=<ES>57:1 - 57:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:58:6: FunctionDecl=UsageFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:128:6 (Declaration) <US>c:@F@UsageFault_Handler<UE> <DS>void UsageFault_Handler(void)<DE> Extent=<ES>58:1 - 58:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:59:6: FunctionDecl=SVC_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:141:6 (Declaration) <US>c:@F@SVC_Handler<UE> <DS>void SVC_Handler(void)<DE> Extent=<ES>59:1 - 59:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:60:6: FunctionDecl=DebugMon_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:150:6 (Declaration) <US>c:@F@DebugMon_Handler<UE> <DS>void DebugMon_Handler(void)<DE> Extent=<ES>60:1 - 60:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:61:6: FunctionDecl=PendSV_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:159:6 (Declaration) <US>c:@F@PendSV_Handler<UE> <DS>void PendSV_Handler(void)<DE> Extent=<ES>61:1 - 61:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:62:6: FunctionDecl=SysTick_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:168:6 (Declaration) <US>c:@F@SysTick_Handler<UE> <DS>void SysTick_Handler(void)<DE> Extent=<ES>62:1 - 62:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:63:6: FunctionDecl=TIM2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:212:6 (Declaration) <US>c:@F@TIM2_IRQHandler<UE> <DS>void TIM2_IRQHandler(void)<DE> Extent=<ES>63:1 - 63:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:64:6: FunctionDecl=EXTI3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:6 (Declaration) <US>c:@F@EXTI3_IRQHandler<UE> <DS>void EXTI3_IRQHandler(void)<DE> Extent=<ES>64:1 - 64:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.h:65:6: FunctionDecl=EXTI4_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:6 (Declaration) <US>c:@F@EXTI4_IRQHandler<UE> <DS>void EXTI4_IRQHandler(void)<DE> Extent=<ES>65:1 - 65:28<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:83:17: VarDecl=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:83:17 (Declaration) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>83:1 - 83:27<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:83:8: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>83:8 - 83:16<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:83:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>83:24 - 83:26<EE>
@@ -15636,1795 +15637,1805 @@
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10: VarDecl=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Declaration) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>44:1 - 44:20<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:1: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>44:1 - 44:9<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>44:17 - 44:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:20: FunctionDecl=TimingDelayDecrement|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:20 (Declaration) <US>c:@F@TimingDelayDecrement<UE> <DS>void TimingDelayDecrement(void)<DE> Extent=<ES>46:1 - 46:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:47:13: FunctionDecl=SystickT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:47:13 (Declaration) <US>c:@F@SystickT<UE> <DS>void SystickT(void)<DE> Extent=<ES>47:1 - 47:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:48:7: FunctionDecl=AnalyzeEXTI|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:48:7 (Declaration) <US>c:@F@AnalyzeEXTI<UE> <DS>void AnalyzeEXTI(void)<DE> Extent=<ES>48:2 - 48:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:77:6: FunctionDecl=NMI_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:77:6 (Definition) <US>c:@F@NMI_Handler<UE> <DS>void NMI_Handler(void)<DE> Extent=<ES>77:1 - 79:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:78:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>78:1 - 79:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:86:6: FunctionDecl=HardFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:86:6 (Definition) <US>c:@F@HardFault_Handler<UE> <DS>void HardFault_Handler(void)<DE> Extent=<ES>86:1 - 92:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:87:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>87:1 - 92:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:89:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>89:2 - 91:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:89:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>89:8 - 89:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:90:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>90:2 - 91:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:99:6: FunctionDecl=MemManage_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:99:6 (Definition) <US>c:@F@MemManage_Handler<UE> <DS>void MemManage_Handler(void)<DE> Extent=<ES>99:1 - 105:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:100:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>100:1 - 105:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:102:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>102:2 - 104:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:102:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>102:8 - 102:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:103:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>103:2 - 104:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:112:6: FunctionDecl=BusFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:112:6 (Definition) <US>c:@F@BusFault_Handler<UE> <DS>void BusFault_Handler(void)<DE> Extent=<ES>112:1 - 118:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:113:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>113:1 - 118:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:115:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>115:2 - 117:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:115:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>115:8 - 115:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:116:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>116:2 - 117:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:125:6: FunctionDecl=UsageFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:125:6 (Definition) <US>c:@F@UsageFault_Handler<UE> <DS>void UsageFault_Handler(void)<DE> Extent=<ES>125:1 - 131:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:126:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>126:1 - 131:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:128:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>128:2 - 130:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:128:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>128:8 - 128:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:129:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>129:2 - 130:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:138:6: FunctionDecl=SVC_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:138:6 (Definition) <US>c:@F@SVC_Handler<UE> <DS>void SVC_Handler(void)<DE> Extent=<ES>138:1 - 140:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:139:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>139:1 - 140:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:147:6: FunctionDecl=DebugMon_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:147:6 (Definition) <US>c:@F@DebugMon_Handler<UE> <DS>void DebugMon_Handler(void)<DE> Extent=<ES>147:1 - 149:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:148:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>148:1 - 149:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:156:6: FunctionDecl=PendSV_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:156:6 (Definition) <US>c:@F@PendSV_Handler<UE> <DS>void PendSV_Handler(void)<DE> Extent=<ES>156:1 - 158:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:157:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>157:1 - 158:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:165:6: FunctionDecl=SysTick_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:165:6 (Definition) <US>c:@F@SysTick_Handler<UE> <DS>void SysTick_Handler(void)<DE> Extent=<ES>165:1 - 168:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:166:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>166:1 - 168:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:2: IfStmt= <US><UE> <DS><DE> Extent=<ES>167:2 - 167:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>167:5 - 167:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:5: UnexposedExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>167:5 - 167:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:5: DeclRefExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 (Reference) <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>167:5 - 167:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:13: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>167:13 - 167:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:13: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>167:13 - 167:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>167:16 - 167:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:167:16: DeclRefExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 (Reference) <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>167:16 - 167:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:179:6: FunctionDecl=USART1_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:179:6 (Definition) <US>c:@F@USART1_IRQHandler<UE> <DS>void USART1_IRQHandler(void)<DE> Extent=<ES>179:1 - 202:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:180:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>180:1 - 202:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>181:5 - 189:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>181:8 - 181:57<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:8: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>181:8 - 181:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:8: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>181:8 - 181:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:8: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>181:8 - 181:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:8: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>181:8 - 181:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>181:26 - 181:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:34: ParenExpr= <US><UE> <DS><DE> Extent=<ES>181:34 - 181:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:34: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>181:34 - 181:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:34: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>181:34 - 181:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:34: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>181:34 - 181:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:52: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>181:52 - 181:57<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:181:52: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>181:52 - 181:57<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:182:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>182:5 - 189:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:9: CallExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>183:9 - 183:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:9: UnexposedExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>183:9 - 183:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:9: DeclRefExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 (Reference) <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>183:9 - 183:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:24 - 183:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:32: CallExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>183:32 - 183:57<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:32: UnexposedExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>183:32 - 183:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:32: DeclRefExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 (Reference) <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>183:32 - 183:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>183:50 - 183:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: CallExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: UnexposedExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: DeclRefExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 (Reference) <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:33 - 186:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:41: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:41 - 186:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:41: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:41 - 186:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:41: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>186:41 - 186:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:41: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:41 - 186:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:3: IfStmt= <US><UE> <DS><DE> Extent=<ES>191:3 - 201:4<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:6: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>191:6 - 191:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:6: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>191:6 - 191:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:6: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>191:6 - 191:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:6: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>191:6 - 191:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:6: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>191:6 - 191:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>191:24 - 191:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>191:32 - 191:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>191:32 - 191:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:32: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>191:32 - 191:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>191:32 - 191:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:49: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>191:49 - 191:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:191:49: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>191:49 - 191:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:192:3: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>192:3 - 201:4<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:5: CallExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:5 - 194:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:5: UnexposedExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:5 - 194:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:5: DeclRefExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 (Reference) <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:5 - 194:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:20 - 194:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:28 - 194:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:28 - 194:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:28: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>194:28 - 194:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:28: UnexposedExpr=TxBuffer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:39:9 <US>c:@TxBuffer<UE> <DS>TxBuffer<DE> Extent=<ES>194:28 - 194:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:28: DeclRefExpr=TxBuffer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:39:9 (Reference) <US>c:@TxBuffer<UE> <DS>TxBuffer<DE> Extent=<ES>194:28 - 194:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:37: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>194:37 - 194:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:37: DeclRefExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 (Reference) <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>194:37 - 194:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>196:5 - 200:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>196:8 - 196:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:8: UnexposedExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>196:8 - 196:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:8: UnexposedExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>196:8 - 196:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:8: DeclRefExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 (Reference) <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>196:8 - 196:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:21: UnexposedExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>196:21 - 196:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:21: UnexposedExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>196:21 - 196:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:196:21: DeclRefExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 (Reference) <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>196:21 - 196:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>197:5 - 200:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:7: CallExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>199:7 - 199:52<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:7: UnexposedExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>199:7 - 199:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:7: DeclRefExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 (Reference) <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>199:7 - 199:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>199:22 - 199:28<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:30: ParenExpr= <US><UE> <DS><DE> Extent=<ES>199:30 - 199:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:30: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>199:30 - 199:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:30: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>199:30 - 199:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:30: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>199:30 - 199:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:44: UnexposedExpr=DISABLE|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:521:15 <US>c:@EA@FunctionalState@DISABLE<UE> <DS>DISABLE<DE> Extent=<ES>199:44 - 199:51<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:44: DeclRefExpr=DISABLE|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:521:15 (Reference) <US>c:@EA@FunctionalState@DISABLE<UE> <DS>DISABLE<DE> Extent=<ES>199:44 - 199:51<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:209:6: FunctionDecl=TIM2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:209:6 (Definition) <US>c:@F@TIM2_IRQHandler<UE> <DS>void TIM2_IRQHandler(void)<DE> Extent=<ES>209:1 - 258:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:210:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>210:1 - 258:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>211:5 - 211:99<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>211:9 - 211:51<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:9: UnexposedExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:9 - 211:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:9: CallExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:9 - 211:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:9: UnexposedExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:9 - 211:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:9: DeclRefExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 (Reference) <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:9 - 211:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: TypeRef=TIM_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1228:3 (Reference) <US>c:stm32f10x.h@51628@T@TIM_TypeDef<UE> <DS>struct TIM_TypeDef<DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:25 - 211:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:31: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:31 - 211:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:31: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:31 - 211:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:31: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>211:31 - 211:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:31 - 211:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:46: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>211:46 - 211:51<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:46: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>211:46 - 211:51<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:60: CallExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:60 - 211:99<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:60: UnexposedExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:60 - 211:81<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:60: DeclRefExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 (Reference) <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>211:60 - 211:81<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: TypeRef=TIM_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1228:3 (Reference) <US>c:stm32f10x.h@51628@T@TIM_TypeDef<UE> <DS>struct TIM_TypeDef<DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:82: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:82 - 211:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:88: ParenExpr= <US><UE> <DS><DE> Extent=<ES>211:88 - 211:98<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:88: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>211:88 - 211:98<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:88: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>211:88 - 211:98<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:211:88: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>211:88 - 211:98<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:212:5: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>212:5 - 212:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:212:5: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>212:5 - 212:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>213:5 - 216:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>213:8 - 213:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>213:8 - 213:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>213:8 - 213:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>213:8 - 213:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>213:21 - 213:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>214:5 - 216:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:9 - 215:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:28 - 215:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:48 - 215:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:48: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>215:48 - 215:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:53 - 215:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:53 - 215:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>215:64 - 215:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:64: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>215:64 - 215:66<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>215:69 - 215:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>215:69 - 215:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>217:5 - 220:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>217:8 - 217:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>217:8 - 217:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>217:8 - 217:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>217:8 - 217:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>217:21 - 217:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>218:5 - 220:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:9 - 219:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:28 - 219:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:48 - 219:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:48: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>219:48 - 219:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:53 - 219:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:53 - 219:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>219:64 - 219:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:64: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>219:64 - 219:66<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>219:69 - 219:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:219:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>219:69 - 219:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>221:5 - 224:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>221:8 - 221:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>221:8 - 221:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>221:8 - 221:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>221:8 - 221:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>221:21 - 221:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>222:5 - 224:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:9 - 223:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:28 - 223:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:48 - 223:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:48: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>223:48 - 223:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:53 - 223:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:53 - 223:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>223:64 - 223:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:64: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>223:64 - 223:66<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>223:69 - 223:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:223:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>223:69 - 223:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>225:5 - 228:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>225:8 - 225:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>225:8 - 225:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>225:8 - 225:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>225:8 - 225:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>225:21 - 225:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>226:5 - 228:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: CompoundAssignOperator= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: MemberRefExpr=ODR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1006:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@ODR<UE> <DS>ODR<DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:9 - 227:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:28 - 227:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:48 - 227:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:48: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>227:48 - 227:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:53 - 227:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:53 - 227:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>227:64 - 227:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:64: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>227:64 - 227:66<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>227:69 - 227:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:227:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>227:69 - 227:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>229:5 - 232:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>229:8 - 229:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>229:8 - 229:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>229:8 - 229:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>229:8 - 229:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>229:21 - 229:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>230:5 - 232:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: CompoundAssignOperator= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: MemberRefExpr=ODR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1006:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@ODR<UE> <DS>ODR<DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:9 - 231:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:28 - 231:39<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:48 - 231:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:48: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>231:48 - 231:50<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:53 - 231:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:53 - 231:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>231:64 - 231:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:64: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>231:64 - 231:66<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>231:69 - 231:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:231:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>231:69 - 231:72<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>233:5 - 257:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>233:8 - 233:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>233:8 - 233:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>233:8 - 233:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>233:8 - 233:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>233:21 - 233:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>234:5 - 257:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>235:9 - 252:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>235:13 - 235:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:21: UnexposedExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>235:13 - 235:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:21: UnexposedExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>235:13 - 235:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:21: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>235:13 - 235:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>235:13 - 235:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:235:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>235:31 - 235:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>236:9 - 252:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>237:13 - 249:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:32: UnexposedExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>237:16 - 237:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:32: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>237:16 - 237:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:21: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>237:16 - 237:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:16: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>237:16 - 237:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:13: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>238:13 - 249:14<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=Family|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:25:15 (Reference) <US>c:@S@card@FI@Family<UE> <DS>Family<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=NumCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:28:15 (Reference) <US>c:@S@card@FI@NumCard<UE> <DS>NumCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=Pas|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:37:15 (Reference) <US>c:@S@cardPass@FI@Pas<UE> <DS>Pas<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=FamilyHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:26:15 (Reference) <US>c:@S@card@FI@FamilyHi<UE> <DS>FamilyHi<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=FamilyLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:27:15 (Reference) <US>c:@S@card@FI@FamilyLo<UE> <DS>FamilyLo<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=NumCardHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:29:15 (Reference) <US>c:@S@card@FI@NumCardHi<UE> <DS>NumCardHi<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=NumCardLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:30:15 (Reference) <US>c:@S@card@FI@NumCardLo<UE> <DS>NumCardLo<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=PasHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:38:15 (Reference) <US>c:@S@cardPass@FI@PasHi<UE> <DS>PasHi<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: MemberRefExpr=PasLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:39:15 (Reference) <US>c:@S@cardPass@FI@PasLo<UE> <DS>PasLo<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>239:17 - 239:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:25: NullStmt= <US><UE> <DS><DE> Extent=<ES>239:25 - 239:26<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>240:17 - 240:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:33: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>240:17 - 240:37<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:22: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>240:17 - 240:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>240:17 - 240:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:40: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>240:40 - 240:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:40: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>240:40 - 240:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>241:17 - 241:63<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:38: MemberRefExpr=OutputKeyboardNumber|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:72:19 (Reference) <US>c:@S@heirFlag1@FI@OutputKeyboardNumber<UE> <DS>OutputKeyboardNumber<DE> Extent=<ES>241:17 - 241:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>241:17 - 241:37<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>241:17 - 241:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:61: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>241:61 - 241:63<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:61: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>241:61 - 241:63<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:38: MemberRefExpr=All|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:75:19 (Reference) <US>c:@S@heirFlag1@FI@All<UE> <DS>All<DE> Extent=<ES>242:17 - 242:41<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>242:17 - 242:37<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>242:17 - 242:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:44: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:44 - 242:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:44: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:44 - 242:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>243:17 - 243:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:38: MemberRefExpr=OutputOnlyEnter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:74:19 (Reference) <US>c:@S@heirFlag1@FI@OutputOnlyEnter<UE> <DS>OutputOnlyEnter<DE> Extent=<ES>243:17 - 243:53<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>243:17 - 243:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:17: VarDecl=readBuffer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:17 (Declaration) <US>c:@readBuffer<UE> <DS>readBuffer<DE> Extent=<ES>46:1 - 46:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:8: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>46:8 - 46:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:46:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>46:28 - 46:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:47:20: FunctionDecl=TimingDelayDecrement|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:47:20 (Declaration) <US>c:@F@TimingDelayDecrement<UE> <DS>void TimingDelayDecrement(void)<DE> Extent=<ES>47:1 - 47:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:48:13: FunctionDecl=SystickT|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:48:13 (Declaration) <US>c:@F@SystickT<UE> <DS>void SystickT(void)<DE> Extent=<ES>48:1 - 48:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:49:7: FunctionDecl=AnalyzeEXTI|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:49:7 (Declaration) <US>c:@F@AnalyzeEXTI<UE> <DS>void AnalyzeEXTI(void)<DE> Extent=<ES>49:2 - 49:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:13: FunctionDecl=ReadCD|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:13 (Declaration) <US>c:@F@ReadCD<UE> <DS>void ReadCD(uint8_t, uint32_t *, uint16_t)<DE> Extent=<ES>51:1 - 51:52<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:28: ParmDecl=|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:28 (Definition) <US><UE> <DS>uint8_t<DE> Extent=<ES>51:20 - 51:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:20: TypeRef=uint8_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:17:28 (Reference) <US>c:stdint.h@340@T@uint8_t<UE> <DS>unsigned char<DE> Extent=<ES>51:20 - 51:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:40: ParmDecl=|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:40 (Definition) <US><UE> <DS>uint32_t *<DE> Extent=<ES>51:30 - 51:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:30: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>51:30 - 51:38<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:51: ParmDecl=|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:51 (Definition) <US><UE> <DS>uint16_t<DE> Extent=<ES>51:42 - 51:52<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:51:42: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>51:42 - 51:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:80:6: FunctionDecl=NMI_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:80:6 (Definition) <US>c:@F@NMI_Handler<UE> <DS>void NMI_Handler(void)<DE> Extent=<ES>80:1 - 82:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:81:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>81:1 - 82:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:89:6: FunctionDecl=HardFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:89:6 (Definition) <US>c:@F@HardFault_Handler<UE> <DS>void HardFault_Handler(void)<DE> Extent=<ES>89:1 - 95:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:90:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>90:1 - 95:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:92:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>92:2 - 94:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:92:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>92:8 - 92:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:93:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>93:2 - 94:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:102:6: FunctionDecl=MemManage_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:102:6 (Definition) <US>c:@F@MemManage_Handler<UE> <DS>void MemManage_Handler(void)<DE> Extent=<ES>102:1 - 108:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:103:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>103:1 - 108:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:105:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>105:2 - 107:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:105:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>105:8 - 105:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:106:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>106:2 - 107:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:115:6: FunctionDecl=BusFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:115:6 (Definition) <US>c:@F@BusFault_Handler<UE> <DS>void BusFault_Handler(void)<DE> Extent=<ES>115:1 - 121:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:116:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>116:1 - 121:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:118:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>118:2 - 120:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:118:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>118:8 - 118:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:119:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>119:2 - 120:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:128:6: FunctionDecl=UsageFault_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:128:6 (Definition) <US>c:@F@UsageFault_Handler<UE> <DS>void UsageFault_Handler(void)<DE> Extent=<ES>128:1 - 134:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:129:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>129:1 - 134:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:131:2: WhileStmt= <US><UE> <DS><DE> Extent=<ES>131:2 - 133:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:131:8: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>131:8 - 131:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:132:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>132:2 - 133:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:141:6: FunctionDecl=SVC_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:141:6 (Definition) <US>c:@F@SVC_Handler<UE> <DS>void SVC_Handler(void)<DE> Extent=<ES>141:1 - 143:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:142:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>142:1 - 143:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:150:6: FunctionDecl=DebugMon_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:150:6 (Definition) <US>c:@F@DebugMon_Handler<UE> <DS>void DebugMon_Handler(void)<DE> Extent=<ES>150:1 - 152:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:151:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>151:1 - 152:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:159:6: FunctionDecl=PendSV_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:159:6 (Definition) <US>c:@F@PendSV_Handler<UE> <DS>void PendSV_Handler(void)<DE> Extent=<ES>159:1 - 161:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:160:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>160:1 - 161:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:168:6: FunctionDecl=SysTick_Handler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:168:6 (Definition) <US>c:@F@SysTick_Handler<UE> <DS>void SysTick_Handler(void)<DE> Extent=<ES>168:1 - 171:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:169:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>169:1 - 171:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:2: IfStmt= <US><UE> <DS><DE> Extent=<ES>170:2 - 170:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>170:5 - 170:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:5: UnexposedExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>170:5 - 170:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:5: DeclRefExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 (Reference) <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>170:5 - 170:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:13: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>170:13 - 170:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:13: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>170:13 - 170:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>170:16 - 170:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:170:16: DeclRefExpr=delay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:35:15 (Reference) <US>c:@delay<UE> <DS>delay<DE> Extent=<ES>170:16 - 170:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:182:6: FunctionDecl=USART1_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:182:6 (Definition) <US>c:@F@USART1_IRQHandler<UE> <DS>void USART1_IRQHandler(void)<DE> Extent=<ES>182:1 - 205:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:183:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>183:1 - 205:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>184:5 - 192:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>184:8 - 184:57<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:8: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>184:8 - 184:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:8: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>184:8 - 184:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:8: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>184:8 - 184:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:8: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>184:8 - 184:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: ParenExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>184:26 - 184:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:34: ParenExpr= <US><UE> <DS><DE> Extent=<ES>184:34 - 184:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:34: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>184:34 - 184:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:34: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>184:34 - 184:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:34: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>184:34 - 184:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:52: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>184:52 - 184:57<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:184:52: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>184:52 - 184:57<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:185:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>185:5 - 192:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: CallExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: UnexposedExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:9: DeclRefExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 (Reference) <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>186:9 - 186:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:24 - 186:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:32: CallExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>186:32 - 186:57<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:32: UnexposedExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>186:32 - 186:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:32: DeclRefExpr=USART_ReceiveData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:379:10 (Reference) <US>c:@F@USART_ReceiveData<UE> <DS>uint16_t USART_ReceiveData(USART_TypeDef *)<DE> Extent=<ES>186:32 - 186:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: ParenExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:186:50: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>186:50 - 186:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:9: CallExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>189:9 - 189:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:9: UnexposedExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>189:9 - 189:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:9: DeclRefExpr=USART_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:393:6 (Reference) <US>c:@F@USART_ClearITPendingBit<UE> <DS>void USART_ClearITPendingBit(USART_TypeDef *, uint16_t)<DE> Extent=<ES>189:9 - 189:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: ParenExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>189:33 - 189:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:41: ParenExpr= <US><UE> <DS><DE> Extent=<ES>189:41 - 189:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:41: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>189:41 - 189:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:41: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>189:41 - 189:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:189:41: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>189:41 - 189:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:3: IfStmt= <US><UE> <DS><DE> Extent=<ES>194:3 - 204:4<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:6: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>194:6 - 194:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:6: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:6 - 194:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:6: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:6 - 194:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:6: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:6 - 194:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:6: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>194:6 - 194:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:24: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:24 - 194:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>194:32 - 194:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>194:32 - 194:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:32: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>194:32 - 194:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>194:32 - 194:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:49: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>194:49 - 194:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:194:49: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>194:49 - 194:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:195:3: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>195:3 - 204:4<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:5: CallExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>197:5 - 197:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:5: UnexposedExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>197:5 - 197:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:5: DeclRefExpr=USART_SendData|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:378:6 (Reference) <US>c:@F@USART_SendData<UE> <DS>void USART_SendData(USART_TypeDef *, uint16_t)<DE> Extent=<ES>197:5 - 197:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: ParenExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>197:20 - 197:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>197:28 - 197:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>197:28 - 197:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:28: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>197:28 - 197:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:28: UnexposedExpr=TxBuffer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:39:9 <US>c:@TxBuffer<UE> <DS>TxBuffer<DE> Extent=<ES>197:28 - 197:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:28: DeclRefExpr=TxBuffer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:39:9 (Reference) <US>c:@TxBuffer<UE> <DS>TxBuffer<DE> Extent=<ES>197:28 - 197:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:37: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>197:37 - 197:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:197:37: DeclRefExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 (Reference) <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>197:37 - 197:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>199:5 - 203:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>199:8 - 199:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:8: UnexposedExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>199:8 - 199:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:8: UnexposedExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>199:8 - 199:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:8: DeclRefExpr=TxCounter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:36:14 (Reference) <US>c:@TxCounter<UE> <DS>TxCounter<DE> Extent=<ES>199:8 - 199:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:21: UnexposedExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>199:21 - 199:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:21: UnexposedExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>199:21 - 199:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:199:21: DeclRefExpr=NbrOfDataToTransfer|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:42:9 (Reference) <US>c:@NbrOfDataToTransfer<UE> <DS>NbrOfDataToTransfer<DE> Extent=<ES>199:21 - 199:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:200:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>200:5 - 203:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:7: CallExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>202:7 - 202:52<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:7: UnexposedExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>202:7 - 202:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:7: DeclRefExpr=USART_ITConfig|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:371:6 (Reference) <US>c:@F@USART_ITConfig<UE> <DS>void USART_ITConfig(USART_TypeDef *, uint16_t, FunctionalState)<DE> Extent=<ES>202:7 - 202:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: ParenExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>202:22 - 202:28<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:30: ParenExpr= <US><UE> <DS><DE> Extent=<ES>202:30 - 202:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:30: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>202:30 - 202:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:30: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>202:30 - 202:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:30: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>202:30 - 202:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:44: UnexposedExpr=DISABLE|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:521:15 <US>c:@EA@FunctionalState@DISABLE<UE> <DS>DISABLE<DE> Extent=<ES>202:44 - 202:51<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:202:44: DeclRefExpr=DISABLE|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:521:15 (Reference) <US>c:@EA@FunctionalState@DISABLE<UE> <DS>DISABLE<DE> Extent=<ES>202:44 - 202:51<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:212:6: FunctionDecl=TIM2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:212:6 (Definition) <US>c:@F@TIM2_IRQHandler<UE> <DS>void TIM2_IRQHandler(void)<DE> Extent=<ES>212:1 - 262:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:213:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>213:1 - 262:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>214:5 - 214:99<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>214:9 - 214:51<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:9: UnexposedExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:9 - 214:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:9: CallExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:9 - 214:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:9: UnexposedExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:9 - 214:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:9: DeclRefExpr=TIM_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1144:10 (Reference) <US>c:@F@TIM_GetITStatus<UE> <DS>ITStatus TIM_GetITStatus(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:9 - 214:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: TypeRef=TIM_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1228:3 (Reference) <US>c:stm32f10x.h@51628@T@TIM_TypeDef<UE> <DS>struct TIM_TypeDef<DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:25 - 214:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:31: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:31 - 214:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:31: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:31 - 214:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:31: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>214:31 - 214:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:31 - 214:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:46: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>214:46 - 214:51<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:46: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>214:46 - 214:51<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:60: CallExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:60 - 214:99<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:60: UnexposedExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:60 - 214:81<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:60: DeclRefExpr=TIM_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h:1145:6 (Reference) <US>c:@F@TIM_ClearITPendingBit<UE> <DS>void TIM_ClearITPendingBit(TIM_TypeDef *, uint16_t)<DE> Extent=<ES>214:60 - 214:81<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: TypeRef=TIM_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1228:3 (Reference) <US>c:stm32f10x.h@51628@T@TIM_TypeDef<UE> <DS>struct TIM_TypeDef<DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:82: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:82 - 214:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:88: ParenExpr= <US><UE> <DS><DE> Extent=<ES>214:88 - 214:98<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:88: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>214:88 - 214:98<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:88: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>214:88 - 214:98<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:214:88: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>214:88 - 214:98<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:5: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>215:5 - 215:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:215:5: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>215:5 - 215:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>216:5 - 219:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>216:8 - 216:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>216:8 - 216:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>216:8 - 216:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>216:8 - 216:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:216:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>216:21 - 216:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:217:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>217:5 - 219:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:9 - 218:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:28 - 218:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:48 - 218:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:48: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>218:48 - 218:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:53 - 218:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:53 - 218:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>218:64 - 218:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:64: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>218:64 - 218:66<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>218:69 - 218:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:218:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>218:69 - 218:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>220:5 - 223:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>220:8 - 220:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>220:8 - 220:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>220:8 - 220:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>220:8 - 220:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:220:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>220:21 - 220:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:221:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>221:5 - 223:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:9 - 222:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:28 - 222:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:48 - 222:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:48: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>222:48 - 222:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:53 - 222:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:53 - 222:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>222:64 - 222:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:64: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>222:64 - 222:66<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>222:69 - 222:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:222:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>222:69 - 222:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>224:5 - 227:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>224:8 - 224:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>224:8 - 224:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>224:8 - 224:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>224:8 - 224:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:224:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>224:21 - 224:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:225:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>225:5 - 227:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: MemberRefExpr=BSRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1007:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BSRR<UE> <DS>BSRR<DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:9 - 226:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:28 - 226:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:48 - 226:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:48: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>226:48 - 226:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:53 - 226:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:53 - 226:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>226:64 - 226:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:64: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>226:64 - 226:66<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>226:69 - 226:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:226:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>226:69 - 226:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>228:5 - 231:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>228:8 - 228:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>228:8 - 228:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>228:8 - 228:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>228:8 - 228:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:228:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>228:21 - 228:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:229:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>229:5 - 231:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: CompoundAssignOperator= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: MemberRefExpr=ODR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1006:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@ODR<UE> <DS>ODR<DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:9 - 230:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:28 - 230:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:48 - 230:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:48: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>230:48 - 230:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:53 - 230:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:53 - 230:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>230:64 - 230:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:64: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>230:64 - 230:66<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>230:69 - 230:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:230:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>230:69 - 230:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>232:5 - 235:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>232:8 - 232:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>232:8 - 232:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>232:8 - 232:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>232:8 - 232:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:232:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>232:21 - 232:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:233:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>233:5 - 235:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: CompoundAssignOperator= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: MemberRefExpr=ODR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1006:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@ODR<UE> <DS>ODR<DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:9: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:9 - 234:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: MemberRefExpr=BRR|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1008:17 (Reference) <US>c:@SA@GPIO_TypeDef@FI@BRR<UE> <DS>BRR<DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: TypeRef=GPIO_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1010:3 (Reference) <US>c:stm32f10x.h@48127@T@GPIO_TypeDef<UE> <DS>struct GPIO_TypeDef<DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: ParenExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:28 - 234:39<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:48: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:48 - 234:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:48: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>234:48 - 234:50<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:53: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:53 - 234:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:53: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:53 - 234:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:64: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>234:64 - 234:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:64: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>234:64 - 234:66<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:69: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>234:69 - 234:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:234:69: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>234:69 - 234:72<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>236:5 - 261:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>236:8 - 236:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>236:8 - 236:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:8: UnexposedExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>236:8 - 236:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:8: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>236:8 - 236:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:236:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>236:21 - 236:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:237:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>237:5 - 261:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>238:9 - 256:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>238:13 - 238:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:21: UnexposedExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>238:13 - 238:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:21: UnexposedExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>238:13 - 238:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:21: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>238:13 - 238:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>238:13 - 238:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:238:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>238:31 - 238:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:239:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>239:9 - 256:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>240:13 - 253:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:32: UnexposedExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>240:16 - 240:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:32: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>240:16 - 240:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:21: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>240:16 - 240:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:240:16: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>240:16 - 240:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:241:13: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>241:13 - 253:14<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=Family|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:25:15 (Reference) <US>c:@S@card@FI@Family<UE> <DS>Family<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=NumCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:28:15 (Reference) <US>c:@S@card@FI@NumCard<UE> <DS>NumCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=Pas|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:37:15 (Reference) <US>c:@S@cardPass@FI@Pas<UE> <DS>Pas<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=FamilyHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:26:15 (Reference) <US>c:@S@card@FI@FamilyHi<UE> <DS>FamilyHi<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=FamilyLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:27:15 (Reference) <US>c:@S@card@FI@FamilyLo<UE> <DS>FamilyLo<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=NumCardHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:29:15 (Reference) <US>c:@S@card@FI@NumCardHi<UE> <DS>NumCardHi<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=NumCardLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:30:15 (Reference) <US>c:@S@card@FI@NumCardLo<UE> <DS>NumCardLo<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:31:3 (Reference) <US>c:@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=PasHi|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:38:15 (Reference) <US>c:@S@cardPass@FI@PasHi<UE> <DS>PasHi<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: MemberRefExpr=PasLo|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:39:15 (Reference) <US>c:@S@cardPass@FI@PasLo<UE> <DS>PasLo<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=PasswordCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\baza.h:40:3 (Reference) <US>c:@PasswordCard<UE> <DS>PasswordCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: CallExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=pow|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\math.h:62:33 (Reference) <US>c:@F@pow<UE> <DS>double pow(double, double)<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ParenExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:17: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>242:17 - 242:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:242:25: NullStmt= <US><UE> <DS><DE> Extent=<ES>242:25 - 242:26<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>243:17 - 243:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:33: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>243:17 - 243:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:22: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>243:17 - 243:32<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>243:17 - 243:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:56: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>243:56 - 243:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:56: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>243:56 - 243:58<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:17: CallExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>244:17 - 244:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:17: UnexposedExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>244:17 - 244:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:17: DeclRefExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 (Reference) <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>244:17 - 244:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:17: CallExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>245:17 - 245:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:17: UnexposedExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>245:17 - 245:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:17: DeclRefExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 (Reference) <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>245:17 - 245:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:17: CallExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>246:17 - 246:37<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:17: UnexposedExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>246:17 - 246:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:17: DeclRefExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 (Reference) <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>246:17 - 246:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>246:26 - 246:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>246:26 - 246:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:26: StringLiteral= <US><UE> <DS><DE> Extent=<ES>246:26 - 246:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:17: ForStmt= <US><UE> <DS><DE> Extent=<ES>247:17 - 247:109<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>247:22 - 247:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:30: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:22 - 247:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:22: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>247:22 - 247:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:39: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>247:39 - 247:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:39: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>247:39 - 247:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:42: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>247:42 - 247:60<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:50: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:42 - 247:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:50: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:42 - 247:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:50: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:42 - 247:56<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:42: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>247:42 - 247:49<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:58: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>247:58 - 247:60<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:62: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>247:62 - 247:78<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:70: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:62 - 247:76<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:62: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>247:62 - 247:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:80: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>247:80 - 247:109<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:80: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>247:80 - 247:102<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:80: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>247:80 - 247:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:80: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>247:80 - 247:86<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:95: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:87 - 247:101<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:95: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>247:87 - 247:101<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:87: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>247:87 - 247:94<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:105: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>247:105 - 247:109<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:105: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>247:105 - 247:109<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>248:17 - 248:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:33: MemberRefExpr=Find|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:80:19 (Reference) <US>c:@S@heirFlag2@FI@Find<UE> <DS>Find<DE> Extent=<ES>248:17 - 248:37<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:22: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>248:17 - 248:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>248:17 - 248:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:40: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>248:40 - 248:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:40: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>248:40 - 248:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>250:13 - 250:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:13: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>250:13 - 250:17<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>250:20 - 250:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>250:20 - 250:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>251:13 - 251:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:21: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>251:13 - 251:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>251:13 - 251:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:30: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>251:30 - 251:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:30: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>251:30 - 251:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:253:9: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>253:9 - 253:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:253:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>253:9 - 253:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:253:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>253:9 - 253:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>254:9 - 254:82<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>254:13 - 254:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:21: UnexposedExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>254:13 - 254:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:21: UnexposedExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>254:13 - 254:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:21: MemberRefExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 (Reference) <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>254:13 - 254:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>254:13 - 254:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>254:33 - 254:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:38: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>254:38 - 254:82<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:39: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>254:39 - 254:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:47: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>254:39 - 254:53<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:39: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>254:39 - 254:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:54: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>254:54 - 254:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:54: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>254:54 - 254:55<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:59: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>254:59 - 254:80<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:59: DeclRefExpr=FANTI_DREB_KNOPKA|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:23:16 (Reference) <US>c:@FANTI_DREB_KNOPKA<UE> <DS>FANTI_DREB_KNOPKA<DE> Extent=<ES>254:59 - 254:76<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:79: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>254:79 - 254:80<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:79: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>254:79 - 254:80<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:9: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>255:9 - 255:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:17: MemberRefExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 (Reference) <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>255:9 - 255:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>255:9 - 255:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:256:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>256:9 - 256:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:256:9: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>256:9 - 256:18<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:256:21: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>256:21 - 256:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:256:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>256:21 - 256:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:265:6: FunctionDecl=USART3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:265:6 (Definition) <US>c:@F@USART3_IRQHandler<UE> <DS>void USART3_IRQHandler(void)<DE> Extent=<ES>265:1 - 271:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:266:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>266:1 - 271:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:2: IfStmt= <US><UE> <DS><DE> Extent=<ES>267:2 - 270:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>267:5 - 267:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:5: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>267:5 - 267:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:5: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>267:5 - 267:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:5: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>267:5 - 267:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:5: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>267:5 - 267:22<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:23: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>267:23 - 267:29<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:31: ParenExpr= <US><UE> <DS><DE> Extent=<ES>267:31 - 267:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:31: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>267:31 - 267:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:31: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>267:31 - 267:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>267:31 - 267:44<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:49: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>267:49 - 267:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:267:49: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>267:49 - 267:54<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:268:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>268:2 - 270:3<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:273:6: FunctionDecl=EXTI0_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:273:6 (Definition) <US>c:@F@EXTI0_IRQHandler<UE> <DS>void EXTI0_IRQHandler(void)<DE> Extent=<ES>273:1 - 291:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:274:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>274:1 - 291:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>275:5 - 290:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>275:8 - 275:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>275:8 - 275:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>275:8 - 275:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>275:8 - 275:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>275:8 - 275:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>275:25 - 275:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>275:25 - 275:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>275:25 - 275:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>275:25 - 275:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>275:40 - 275:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:275:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>275:40 - 275:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:276:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>276:5 - 290:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>277:9 - 277:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>277:9 - 277:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>277:9 - 277:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>277:26 - 277:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>277:26 - 277:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>278:9 - 278:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>278:9 - 278:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>278:9 - 278:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>278:32 - 278:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>278:32 - 278:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>278:32 - 278:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>278:32 - 278:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>279:9 - 279:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>279:9 - 279:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>279:9 - 279:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>279:32 - 279:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>279:32 - 279:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>279:32 - 279:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>279:32 - 279:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>280:9 - 280:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>280:9 - 280:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>280:9 - 280:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>280:32 - 280:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>280:32 - 280:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>280:32 - 280:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>280:32 - 280:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>282:9 - 289:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>282:12 - 282:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>282:12 - 282:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>282:12 - 282:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>282:12 - 282:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>282:20 - 282:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>283:9 - 289:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>284:13 - 284:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>284:17 - 284:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>284:17 - 284:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>284:29 - 284:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>284:30 - 284:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>284:30 - 284:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>284:37 - 284:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>284:37 - 284:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>284:53 - 284:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>285:13 - 285:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>285:17 - 285:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>285:17 - 285:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>285:29 - 285:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>285:30 - 285:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>285:30 - 285:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>285:37 - 285:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>285:37 - 285:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:285:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>285:53 - 285:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>286:13 - 286:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>286:17 - 286:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>286:17 - 286:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>286:29 - 286:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>286:30 - 286:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>286:30 - 286:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>286:37 - 286:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>286:37 - 286:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>286:53 - 286:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>287:13 - 287:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>287:17 - 287:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>287:17 - 287:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>287:29 - 287:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>287:30 - 287:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>287:30 - 287:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>287:37 - 287:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>287:37 - 287:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>287:53 - 287:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:40: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>243:40 - 243:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:243:40: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>243:40 - 243:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>244:17 - 244:63<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:38: MemberRefExpr=OutputKeyboardNumber|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:72:19 (Reference) <US>c:@S@heirFlag1@FI@OutputKeyboardNumber<UE> <DS>OutputKeyboardNumber<DE> Extent=<ES>244:17 - 244:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>244:17 - 244:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>244:17 - 244:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:61: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>244:61 - 244:63<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:244:61: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>244:61 - 244:63<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>245:17 - 245:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:38: MemberRefExpr=All|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:75:19 (Reference) <US>c:@S@heirFlag1@FI@All<UE> <DS>All<DE> Extent=<ES>245:17 - 245:41<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>245:17 - 245:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>245:17 - 245:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:44: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>245:44 - 245:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:245:44: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>245:44 - 245:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>246:17 - 246:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:38: MemberRefExpr=OutputOnlyEnter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:74:19 (Reference) <US>c:@S@heirFlag1@FI@OutputOnlyEnter<UE> <DS>OutputOnlyEnter<DE> Extent=<ES>246:17 - 246:53<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:22: MemberRefExpr=OutputToDisplay|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:76:7 (Reference) <US>c:@S@parentsFlag@FI@OutputToDisplay<UE> <DS>OutputToDisplay<DE> Extent=<ES>246:17 - 246:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>246:17 - 246:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:56: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>246:56 - 246:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:246:56: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>246:56 - 246:58<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:17: CallExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>247:17 - 247:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:17: UnexposedExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>247:17 - 247:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:247:17: DeclRefExpr=DisplayClear|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:93:6 (Reference) <US>c:@F@DisplayClear<UE> <DS>void DisplayClear(void)<DE> Extent=<ES>247:17 - 247:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:17: CallExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>248:17 - 248:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:17: UnexposedExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>248:17 - 248:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:248:17: DeclRefExpr=ReturnHome|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\led.h:127:6 (Reference) <US>c:@F@ReturnHome<UE> <DS>void ReturnHome(void)<DE> Extent=<ES>248:17 - 248:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:17: CallExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>249:17 - 249:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:17: UnexposedExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>249:17 - 249:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:17: DeclRefExpr=WriteTxt|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\SystemConfiguration.h:88:6 (Reference) <US>c:@F@WriteTxt<UE> <DS>void WriteTxt(uint8_t *)<DE> Extent=<ES>249:17 - 249:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>249:26 - 249:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>249:26 - 249:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:249:26: StringLiteral= <US><UE> <DS><DE> Extent=<ES>249:26 - 249:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:17: ForStmt= <US><UE> <DS><DE> Extent=<ES>250:17 - 250:109<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:22: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>250:22 - 250:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:30: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:22 - 250:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:22: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>250:22 - 250:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:39: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>250:39 - 250:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:39: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>250:39 - 250:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:42: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>250:42 - 250:60<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:50: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:42 - 250:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:50: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:42 - 250:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:50: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:42 - 250:56<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:42: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>250:42 - 250:49<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:58: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>250:58 - 250:60<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:62: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>250:62 - 250:78<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:70: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:62 - 250:76<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:62: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>250:62 - 250:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:80: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>250:80 - 250:109<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:80: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>250:80 - 250:102<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:80: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>250:80 - 250:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:80: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>250:80 - 250:86<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:95: UnexposedExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:87 - 250:101<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:95: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>250:87 - 250:101<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:87: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>250:87 - 250:94<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:105: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>250:105 - 250:109<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:250:105: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>250:105 - 250:109<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:17: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>251:17 - 251:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:33: MemberRefExpr=Find|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:80:19 (Reference) <US>c:@S@heirFlag2@FI@Find<UE> <DS>Find<DE> Extent=<ES>251:17 - 251:37<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:22: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>251:17 - 251:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:17: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>251:17 - 251:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:40: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>251:40 - 251:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:251:40: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>251:40 - 251:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>254:13 - 254:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:13: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>254:13 - 254:17<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:20: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>254:20 - 254:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:254:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>254:20 - 254:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>255:13 - 255:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:21: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>255:13 - 255:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>255:13 - 255:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:30: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>255:30 - 255:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:255:30: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>255:30 - 255:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:257:9: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>257:9 - 257:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:257:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>257:9 - 257:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:257:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>257:9 - 257:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>258:9 - 258:82<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:13: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>258:13 - 258:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:21: UnexposedExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>258:13 - 258:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:21: UnexposedExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>258:13 - 258:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:21: MemberRefExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 (Reference) <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>258:13 - 258:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:13: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>258:13 - 258:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:33: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>258:33 - 258:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:38: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>258:38 - 258:82<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:39: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>258:39 - 258:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:47: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>258:39 - 258:53<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:39: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>258:39 - 258:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:54: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>258:54 - 258:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:54: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>258:54 - 258:55<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:59: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>258:59 - 258:80<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:59: DeclRefExpr=FANTI_DREB_KNOPKA|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:23:16 (Reference) <US>c:@FANTI_DREB_KNOPKA<UE> <DS>FANTI_DREB_KNOPKA<DE> Extent=<ES>258:59 - 258:76<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:79: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>258:79 - 258:80<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:258:79: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>258:79 - 258:80<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:259:9: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>259:9 - 259:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:259:17: MemberRefExpr=WaitExti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:109:13 (Reference) <US>c:@S@parentsCounter@FI@WaitExti<UE> <DS>WaitExti<DE> Extent=<ES>259:9 - 259:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:259:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>259:9 - 259:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:260:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>260:9 - 260:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:260:9: DeclRefExpr=countTime|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:25:10 (Reference) <US>c:@countTime<UE> <DS>countTime<DE> Extent=<ES>260:9 - 260:18<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:260:21: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>260:21 - 260:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:260:21: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>260:21 - 260:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:269:6: FunctionDecl=USART3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:269:6 (Definition) <US>c:@F@USART3_IRQHandler<UE> <DS>void USART3_IRQHandler(void)<DE> Extent=<ES>269:1 - 275:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:270:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>270:1 - 275:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:2: IfStmt= <US><UE> <DS><DE> Extent=<ES>271:2 - 274:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>271:5 - 271:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:5: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>271:5 - 271:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:5: CallExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>271:5 - 271:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:5: UnexposedExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>271:5 - 271:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:5: DeclRefExpr=USART_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h:392:10 (Reference) <US>c:@F@USART_GetITStatus<UE> <DS>ITStatus USART_GetITStatus(USART_TypeDef *, uint16_t)<DE> Extent=<ES>271:5 - 271:22<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: TypeRef=USART_TypeDef|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:1250:3 (Reference) <US>c:stm32f10x.h@52690@T@USART_TypeDef<UE> <DS>struct USART_TypeDef<DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: ParenExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:23: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>271:23 - 271:29<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:31: ParenExpr= <US><UE> <DS><DE> Extent=<ES>271:31 - 271:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:31: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>271:31 - 271:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:31: TypeRef=uint16_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:22:29 (Reference) <US>c:stdint.h@473@T@uint16_t<UE> <DS>unsigned short<DE> Extent=<ES>271:31 - 271:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:31: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>271:31 - 271:44<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:49: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>271:49 - 271:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:271:49: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>271:49 - 271:54<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:272:2: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>272:2 - 274:3<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:6: FunctionDecl=EXTI0_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:277:6 (Definition) <US>c:@F@EXTI0_IRQHandler<UE> <DS>void EXTI0_IRQHandler(void)<DE> Extent=<ES>277:1 - 295:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:278:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>278:1 - 295:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>279:5 - 294:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>279:8 - 279:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>279:8 - 279:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>279:8 - 279:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>279:8 - 279:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>279:8 - 279:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>279:25 - 279:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>279:25 - 279:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>279:25 - 279:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>279:25 - 279:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>279:40 - 279:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:279:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>279:40 - 279:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:280:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>280:5 - 294:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:281:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>281:9 - 281:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:281:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>281:9 - 281:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:281:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>281:9 - 281:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:281:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>281:26 - 281:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:281:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>281:26 - 281:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>282:9 - 282:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>282:9 - 282:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>282:9 - 282:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>282:32 - 282:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>282:32 - 282:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>282:32 - 282:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:282:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>282:32 - 282:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>283:9 - 283:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>283:9 - 283:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>283:9 - 283:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>283:32 - 283:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>283:32 - 283:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>283:32 - 283:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:283:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>283:32 - 283:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>284:9 - 284:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>284:9 - 284:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>284:9 - 284:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>284:32 - 284:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>284:32 - 284:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>284:32 - 284:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:284:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>284:32 - 284:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>286:9 - 293:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>286:12 - 286:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>286:12 - 286:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>286:12 - 286:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>286:12 - 286:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:286:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>286:20 - 286:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:287:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>287:9 - 293:10<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>288:13 - 288:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>288:17 - 288:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>288:17 - 288:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>288:17 - 288:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>288:17 - 288:19<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>288:29 - 288:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>288:30 - 288:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>288:30 - 288:45<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>288:30 - 288:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>288:37 - 288:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>288:37 - 288:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>288:37 - 288:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>288:37 - 288:45<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:288:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>288:53 - 288:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:6: FunctionDecl=EXTI1_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:6 (Definition) <US>c:@F@EXTI1_IRQHandler<UE> <DS>void EXTI1_IRQHandler(void)<DE> Extent=<ES>292:1 - 310:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:293:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>293:1 - 310:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>294:5 - 309:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>294:8 - 294:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>294:8 - 294:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>294:8 - 294:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>294:8 - 294:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>294:8 - 294:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>294:25 - 294:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>294:25 - 294:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>294:25 - 294:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>294:25 - 294:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>294:40 - 294:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:294:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>294:40 - 294:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:295:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>295:5 - 309:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>296:9 - 296:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>296:9 - 296:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>296:9 - 296:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>296:26 - 296:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>296:26 - 296:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>297:9 - 297:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>297:9 - 297:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>297:9 - 297:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>297:32 - 297:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>297:32 - 297:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>297:32 - 297:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>297:32 - 297:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>298:9 - 298:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>298:9 - 298:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>298:9 - 298:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>298:32 - 298:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>298:32 - 298:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>298:32 - 298:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>298:32 - 298:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>299:9 - 299:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>299:9 - 299:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>299:9 - 299:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>299:32 - 299:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>299:32 - 299:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>299:32 - 299:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>299:32 - 299:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>301:9 - 308:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>301:12 - 301:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>301:12 - 301:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>301:12 - 301:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>301:12 - 301:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>301:20 - 301:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>302:9 - 308:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>303:13 - 303:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>303:17 - 303:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>303:17 - 303:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>303:29 - 303:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>303:30 - 303:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>303:30 - 303:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>303:37 - 303:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>303:37 - 303:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>303:53 - 303:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>304:13 - 304:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>304:17 - 304:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>304:17 - 304:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>304:29 - 304:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>304:30 - 304:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>304:30 - 304:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>304:37 - 304:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>304:37 - 304:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:304:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>304:53 - 304:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>305:13 - 305:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>305:17 - 305:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>305:17 - 305:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>305:29 - 305:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>305:30 - 305:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>305:30 - 305:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>305:37 - 305:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>305:37 - 305:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>305:53 - 305:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>306:13 - 306:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>306:17 - 306:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>306:17 - 306:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>306:29 - 306:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>306:30 - 306:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>306:30 - 306:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>306:37 - 306:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>306:37 - 306:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>306:53 - 306:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>289:13 - 289:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>289:17 - 289:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>289:17 - 289:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>289:29 - 289:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>289:30 - 289:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>289:30 - 289:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>289:37 - 289:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>289:37 - 289:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:289:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>289:53 - 289:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>290:13 - 290:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>290:17 - 290:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>290:17 - 290:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>290:29 - 290:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>290:30 - 290:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>290:30 - 290:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>290:37 - 290:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>290:37 - 290:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:290:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>290:53 - 290:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>291:13 - 291:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>291:17 - 291:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>291:17 - 291:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>291:29 - 291:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>291:30 - 291:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>291:30 - 291:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>291:37 - 291:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>291:37 - 291:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:291:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>291:53 - 291:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>292:13 - 292:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>292:17 - 292:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>292:17 - 292:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>292:29 - 292:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>292:30 - 292:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>292:30 - 292:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>292:37 - 292:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>292:37 - 292:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:292:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>292:53 - 292:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:6: FunctionDecl=EXTI1_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:296:6 (Definition) <US>c:@F@EXTI1_IRQHandler<UE> <DS>void EXTI1_IRQHandler(void)<DE> Extent=<ES>296:1 - 314:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:297:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>297:1 - 314:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>298:5 - 313:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>298:8 - 298:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>298:8 - 298:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>298:8 - 298:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>298:8 - 298:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>298:8 - 298:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>298:25 - 298:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>298:25 - 298:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>298:25 - 298:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>298:25 - 298:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>298:40 - 298:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:298:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>298:40 - 298:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:299:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>299:5 - 313:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:300:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>300:9 - 300:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:300:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>300:9 - 300:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:300:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>300:9 - 300:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:300:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>300:26 - 300:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:300:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>300:26 - 300:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>301:9 - 301:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>301:9 - 301:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>301:9 - 301:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>301:32 - 301:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>301:32 - 301:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>301:32 - 301:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:301:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>301:32 - 301:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>302:9 - 302:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>302:9 - 302:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>302:9 - 302:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>302:32 - 302:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>302:32 - 302:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>302:32 - 302:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:302:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>302:32 - 302:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>303:9 - 303:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>303:9 - 303:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>303:9 - 303:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>303:32 - 303:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>303:32 - 303:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>303:32 - 303:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:303:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>303:32 - 303:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>305:9 - 312:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>305:12 - 305:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>305:12 - 305:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>305:12 - 305:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>305:12 - 305:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:305:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>305:20 - 305:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:306:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>306:9 - 312:10<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>307:13 - 307:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>307:17 - 307:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>307:17 - 307:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>307:17 - 307:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>307:17 - 307:19<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>307:29 - 307:61<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>307:30 - 307:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>307:30 - 307:45<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>307:30 - 307:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>307:37 - 307:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>307:37 - 307:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>307:37 - 307:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>307:37 - 307:45<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:307:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>307:53 - 307:59<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:6: FunctionDecl=EXTI2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:6 (Definition) <US>c:@F@EXTI2_IRQHandler<UE> <DS>void EXTI2_IRQHandler(void)<DE> Extent=<ES>311:1 - 330:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:312:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>312:1 - 330:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>313:5 - 329:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>313:8 - 313:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>313:8 - 313:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>313:8 - 313:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>313:8 - 313:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>313:8 - 313:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>313:25 - 313:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>313:25 - 313:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>313:25 - 313:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>313:25 - 313:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>313:40 - 313:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:313:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>313:40 - 313:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:314:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>314:5 - 329:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>315:9 - 315:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>315:9 - 315:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>315:9 - 315:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>315:26 - 315:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>315:26 - 315:27<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>316:9 - 316:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>316:9 - 316:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>316:9 - 316:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>316:32 - 316:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>316:32 - 316:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>316:32 - 316:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>316:32 - 316:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>317:9 - 317:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>317:9 - 317:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>317:9 - 317:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>317:32 - 317:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>317:32 - 317:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>317:32 - 317:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>317:32 - 317:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>318:9 - 318:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>318:9 - 318:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>318:9 - 318:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>318:32 - 318:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>318:32 - 318:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>318:32 - 318:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>318:32 - 318:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>320:9 - 328:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>320:12 - 320:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>320:12 - 320:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>320:12 - 320:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>320:12 - 320:16<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>320:20 - 320:21<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>321:9 - 328:10<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>322:13 - 322:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>322:17 - 322:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>322:17 - 322:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>322:29 - 322:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>322:30 - 322:52<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>322:30 - 322:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>322:37 - 322:52<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>322:37 - 322:52<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>322:61 - 322:67<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>323:13 - 323:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>323:17 - 323:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>323:17 - 323:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>323:29 - 323:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>323:30 - 323:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>323:30 - 323:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>323:37 - 323:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>323:37 - 323:48<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:323:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>323:61 - 323:67<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>324:13 - 324:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>324:17 - 324:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>324:17 - 324:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>324:29 - 324:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>324:30 - 324:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>324:30 - 324:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>324:37 - 324:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>324:37 - 324:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>324:61 - 324:67<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>325:13 - 325:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>325:17 - 325:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>325:17 - 325:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>325:29 - 325:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>325:30 - 325:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>325:30 - 325:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>325:37 - 325:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>325:37 - 325:46<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>325:61 - 325:67<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>308:13 - 308:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>308:17 - 308:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>308:17 - 308:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>308:29 - 308:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>308:30 - 308:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>308:30 - 308:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>308:37 - 308:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>308:37 - 308:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:308:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>308:53 - 308:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>309:13 - 309:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>309:17 - 309:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>309:17 - 309:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>309:29 - 309:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>309:30 - 309:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>309:30 - 309:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>309:37 - 309:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>309:37 - 309:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:309:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>309:53 - 309:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>310:13 - 310:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>310:17 - 310:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>310:17 - 310:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>310:29 - 310:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>310:30 - 310:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>310:30 - 310:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>310:37 - 310:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>310:37 - 310:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:310:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>310:53 - 310:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>311:13 - 311:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>311:17 - 311:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>311:17 - 311:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>311:29 - 311:61<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>311:30 - 311:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>311:30 - 311:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>311:37 - 311:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>311:37 - 311:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:311:53: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>311:53 - 311:59<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:6: FunctionDecl=EXTI2_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:315:6 (Definition) <US>c:@F@EXTI2_IRQHandler<UE> <DS>void EXTI2_IRQHandler(void)<DE> Extent=<ES>315:1 - 334:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:316:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>316:1 - 334:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>317:5 - 333:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>317:8 - 317:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>317:8 - 317:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>317:8 - 317:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>317:8 - 317:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>317:8 - 317:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>317:25 - 317:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>317:25 - 317:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>317:25 - 317:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>317:25 - 317:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>317:40 - 317:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:317:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>317:40 - 317:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:318:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>318:5 - 333:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:319:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>319:9 - 319:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:319:17: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>319:9 - 319:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:319:9: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>319:9 - 319:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:319:26: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>319:26 - 319:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:319:26: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>319:26 - 319:27<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>320:9 - 320:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>320:9 - 320:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>320:9 - 320:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>320:32 - 320:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>320:32 - 320:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>320:32 - 320:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:320:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>320:32 - 320:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>321:9 - 321:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>321:9 - 321:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>321:9 - 321:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>321:32 - 321:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>321:32 - 321:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>321:32 - 321:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:321:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>321:32 - 321:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>322:9 - 322:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>322:9 - 322:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>322:9 - 322:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>322:32 - 322:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>322:32 - 322:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>322:32 - 322:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:322:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>322:32 - 322:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:9: IfStmt= <US><UE> <DS><DE> Extent=<ES>324:9 - 332:10<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:12: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>324:12 - 324:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>324:12 - 324:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:12: UnexposedExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>324:12 - 324:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:12: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>324:12 - 324:16<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:324:20: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>324:20 - 324:21<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:325:9: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>325:9 - 332:10<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>326:13 - 326:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>326:17 - 326:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>326:17 - 326:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:17: UnexposedExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>326:17 - 326:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:17: DeclRefExpr=L1|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:26:10 (Reference) <US>c:@L1<UE> <DS>L1<DE> Extent=<ES>326:17 - 326:19<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>326:29 - 326:69<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>326:30 - 326:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>326:30 - 326:52<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>326:30 - 326:34<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>326:37 - 326:47<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>326:37 - 326:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>326:37 - 326:52<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>326:37 - 326:52<EE>
 <L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:326:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>326:61 - 326:67<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:332:6: FunctionDecl=EXTI3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:332:6 (Definition) <US>c:@F@EXTI3_IRQHandler<UE> <DS>void EXTI3_IRQHandler(void)<DE> Extent=<ES>332:1 - 341:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:333:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>333:1 - 341:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>334:5 - 334:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:21: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>334:5 - 334:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:10: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>334:5 - 334:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:5: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>334:5 - 334:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>334:28 - 334:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:334:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>334:28 - 334:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:335:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>335:5 - 335:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:335:13: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>335:5 - 335:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:335:5: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>335:5 - 335:12<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:335:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>335:22 - 335:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:335:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>335:22 - 335:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>336:5 - 340:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>336:8 - 336:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>336:8 - 336:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>336:8 - 336:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>336:8 - 336:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>336:8 - 336:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>336:25 - 336:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>336:25 - 336:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>336:25 - 336:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>336:25 - 336:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>336:40 - 336:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>336:40 - 336:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:337:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>337:5 - 340:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>338:9 - 338:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>338:9 - 338:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>338:9 - 338:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>338:32 - 338:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>338:32 - 338:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>338:32 - 338:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>338:32 - 338:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>339:9 - 339:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:9: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>339:9 - 339:33<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:9: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>339:9 - 339:15<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:9: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>339:9 - 339:15<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>339:16 - 339:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:24: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>339:16 - 339:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:16: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>339:16 - 339:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:36: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>339:36 - 339:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:36: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>339:36 - 339:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:6: FunctionDecl=EXTI4_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:6 (Definition) <US>c:@F@EXTI4_IRQHandler<UE> <DS>void EXTI4_IRQHandler(void)<DE> Extent=<ES>342:1 - 351:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>343:1 - 351:2<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>344:5 - 344:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:21: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>344:5 - 344:25<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:10: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>344:5 - 344:20<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:5: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>344:5 - 344:9<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>344:28 - 344:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:344:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>344:28 - 344:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:345:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>345:5 - 345:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:345:13: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>345:5 - 345:19<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:345:5: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>345:5 - 345:12<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:345:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>345:22 - 345:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:345:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>345:22 - 345:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>346:5 - 350:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>346:8 - 346:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>346:8 - 346:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>346:8 - 346:36<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>346:8 - 346:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>346:8 - 346:24<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>346:25 - 346:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>346:25 - 346:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>346:25 - 346:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>346:25 - 346:35<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>346:40 - 346:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>346:40 - 346:45<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:347:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>347:5 - 350:6<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>348:9 - 348:43<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>348:9 - 348:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>348:9 - 348:31<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>348:32 - 348:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>348:32 - 348:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>348:32 - 348:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>348:32 - 348:42<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>349:9 - 349:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:9: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>349:9 - 349:33<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:9: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>349:9 - 349:15<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:9: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>349:9 - 349:15<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>349:16 - 349:32<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:24: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>349:16 - 349:30<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:16: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>349:16 - 349:23<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:36: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>349:36 - 349:40<EE>
-<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:36: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>349:36 - 349:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>327:13 - 327:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:17: UnexposedExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>327:17 - 327:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:17: DeclRefExpr=L2|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:27:10 (Reference) <US>c:@L2<UE> <DS>L2<DE> Extent=<ES>327:17 - 327:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>327:29 - 327:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>327:30 - 327:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>327:30 - 327:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>327:37 - 327:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>327:37 - 327:48<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:327:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>327:61 - 327:67<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>328:13 - 328:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:17: UnexposedExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>328:17 - 328:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:17: DeclRefExpr=L3|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:28:10 (Reference) <US>c:@L3<UE> <DS>L3<DE> Extent=<ES>328:17 - 328:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>328:29 - 328:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>328:30 - 328:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>328:30 - 328:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>328:37 - 328:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>328:37 - 328:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:328:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>328:61 - 328:67<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>329:13 - 329:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:17: UnexposedExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>329:17 - 329:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:17: DeclRefExpr=L4|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:29:10 (Reference) <US>c:@L4<UE> <DS>L4<DE> Extent=<ES>329:17 - 329:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>329:29 - 329:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>329:30 - 329:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>329:30 - 329:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>329:37 - 329:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>329:37 - 329:46<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:329:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>329:61 - 329:67<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:13: IfStmt= <US><UE> <DS><DE> Extent=<ES>330:13 - 330:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:17: UnexposedExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>330:17 - 330:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:17: DeclRefExpr=L5|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:30:10 (Reference) <US>c:@L5<UE> <DS>L5<DE> Extent=<ES>330:17 - 330:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:29: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>330:29 - 330:69<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:30: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>330:30 - 330:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:30: DeclRefExpr=exti|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:22:9 (Reference) <US>c:@exti<UE> <DS>exti<DE> Extent=<ES>330:30 - 330:34<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:37: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>330:37 - 330:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:37: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>330:37 - 330:47<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:330:61: ReturnStmt= <US><UE> <DS><DE> Extent=<ES>330:61 - 330:67<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:6: FunctionDecl=EXTI3_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:336:6 (Definition) <US>c:@F@EXTI3_IRQHandler<UE> <DS>void EXTI3_IRQHandler(void)<DE> Extent=<ES>336:1 - 345:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:337:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>337:1 - 345:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>338:5 - 338:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:21: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>338:5 - 338:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:10: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>338:5 - 338:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:5: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>338:5 - 338:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>338:28 - 338:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:338:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>338:28 - 338:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>339:5 - 339:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:13: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>339:5 - 339:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:5: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>339:5 - 339:12<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>339:22 - 339:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:339:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>339:22 - 339:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>340:5 - 344:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>340:8 - 340:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>340:8 - 340:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>340:8 - 340:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>340:8 - 340:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>340:8 - 340:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>340:25 - 340:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>340:25 - 340:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>340:25 - 340:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>340:25 - 340:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>340:40 - 340:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:340:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>340:40 - 340:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:341:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>341:5 - 344:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>342:9 - 342:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>342:9 - 342:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>342:9 - 342:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>342:32 - 342:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>342:32 - 342:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>342:32 - 342:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:342:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>342:32 - 342:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>343:9 - 343:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:9: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>343:9 - 343:33<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:9: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>343:9 - 343:15<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:9: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>343:9 - 343:15<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>343:16 - 343:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:24: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>343:16 - 343:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:16: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>343:16 - 343:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:36: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>343:36 - 343:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:343:36: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>343:36 - 343:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:6: FunctionDecl=EXTI4_IRQHandler|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:346:6 (Definition) <US>c:@F@EXTI4_IRQHandler<UE> <DS>void EXTI4_IRQHandler(void)<DE> Extent=<ES>346:1 - 355:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:347:1: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>347:1 - 355:2<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>348:5 - 348:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:21: MemberRefExpr=Read|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:82:19 (Reference) <US>c:@S@heirFlag2@FI@Read<UE> <DS>Read<DE> Extent=<ES>348:5 - 348:25<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:10: MemberRefExpr=AccessCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:83:7 (Reference) <US>c:@S@parentsFlag@FI@AccessCard<UE> <DS>AccessCard<DE> Extent=<ES>348:5 - 348:20<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:5: DeclRefExpr=Flag|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:104:3 (Reference) <US>c:@Flag<UE> <DS>Flag<DE> Extent=<ES>348:5 - 348:9<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:28: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>348:28 - 348:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:348:28: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>348:28 - 348:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:5: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>349:5 - 349:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:13: MemberRefExpr=by15ms|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:110:13 (Reference) <US>c:@S@parentsCounter@FI@by15ms<UE> <DS>by15ms<DE> Extent=<ES>349:5 - 349:19<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:5: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>349:5 - 349:12<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:22: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>349:22 - 349:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:349:22: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>349:22 - 349:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:5: IfStmt= <US><UE> <DS><DE> Extent=<ES>350:5 - 354:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:8: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>350:8 - 350:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>350:8 - 350:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:8: CallExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>350:8 - 350:36<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:8: UnexposedExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>350:8 - 350:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:8: DeclRefExpr=EXTI_GetITStatus|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:164:10 (Reference) <US>c:@F@EXTI_GetITStatus<UE> <DS>ITStatus EXTI_GetITStatus(uint32_t)<DE> Extent=<ES>350:8 - 350:24<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:25: ParenExpr= <US><UE> <DS><DE> Extent=<ES>350:25 - 350:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:25: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>350:25 - 350:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:25: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>350:25 - 350:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:25: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>350:25 - 350:35<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:40: UnexposedExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>350:40 - 350:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:350:40: DeclRefExpr=RESET|D:\work\PKD+KZ\PKDrep\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h:519:15 (Reference) <US>c:@EA@FlagStatus@RESET<UE> <DS>RESET<DE> Extent=<ES>350:40 - 350:45<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:351:5: CompoundStmt= <US><UE> <DS><DE> Extent=<ES>351:5 - 354:6<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:9: CallExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>352:9 - 352:43<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:9: UnexposedExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>352:9 - 352:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:9: DeclRefExpr=EXTI_ClearITPendingBit|D:\work\PKD+KZ\PKDrep\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h:165:6 (Reference) <US>c:@F@EXTI_ClearITPendingBit<UE> <DS>void EXTI_ClearITPendingBit(uint32_t)<DE> Extent=<ES>352:9 - 352:31<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:32: ParenExpr= <US><UE> <DS><DE> Extent=<ES>352:32 - 352:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:32: CStyleCastExpr= <US><UE> <DS><DE> Extent=<ES>352:32 - 352:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:32: TypeRef=uint32_t|D:\Program Files\IAR Systems\Embedded Workbench 6.4\arm\inc\c\stdint.h:27:29 (Reference) <US>c:stdint.h@609@T@uint32_t<UE> <DS>unsigned int<DE> Extent=<ES>352:32 - 352:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:352:32: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>352:32 - 352:42<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:9: BinaryOperator= <US><UE> <DS><DE> Extent=<ES>353:9 - 353:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:9: ArraySubscriptExpr= <US><UE> <DS><DE> Extent=<ES>353:9 - 353:33<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:9: UnexposedExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>353:9 - 353:15<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:9: DeclRefExpr=snCard|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:44:10 (Reference) <US>c:@snCard<UE> <DS>snCard<DE> Extent=<ES>353:9 - 353:15<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:16: UnaryOperator= <US><UE> <DS><DE> Extent=<ES>353:16 - 353:32<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:24: MemberRefExpr=card_i|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:111:13 (Reference) <US>c:@S@parentsCounter@FI@card_i<UE> <DS>card_i<DE> Extent=<ES>353:16 - 353:30<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:16: DeclRefExpr=Counter|D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\main.h:112:3 (Reference) <US>c:@Counter<UE> <DS>Counter<DE> Extent=<ES>353:16 - 353:23<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:36: UnexposedExpr= <US><UE> <DS><DE> Extent=<ES>353:36 - 353:40<EE>
+<L>D:\work\PKD+KZ\PKDrep\Project\STM32F10x_StdPeriph_Template\stm32f10x_it.c:353:36: IntegerLiteral= <US><UE> <DS><DE> Extent=<ES>353:36 - 353:40<EE>

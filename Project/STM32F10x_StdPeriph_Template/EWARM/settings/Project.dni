@@ -9,7 +9,7 @@ TriggerName=main
 LimitSize=0
 ByteLimit=50
 [DebugChecksum]
-Checksum=1348731533
+Checksum=-1199360274
 [Exceptions]
 StopOnUncaught=_ 0
 StopOnThrow=_ 0
@@ -81,7 +81,7 @@ Exclusions=
 [Disassemble mode]
 mode=0
 [Breakpoints2]
-Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\baza.c}.197.6" 0 0 1 "" 0 "" 0
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\baza.c}.197.2" 0 0 1 "" 0 "" 0
 Count=1
 [Aliases]
 Count=0

@@ -41,9 +41,6 @@ extern  void WriteData(uint8_t);
 extern uint8_t exti;
 __IO extern uint32_t delay;
 
-extern uint32_t readBuffer[basaSise];
-
-//void ReadCD(uint8_t , uint32_t* , uint16_t );
 
 int main(void)
 {
@@ -77,7 +74,6 @@ int main(void)
     while(1)
     {
         if (Flag.OutputToDisplay.All) AnalyzeEXTI();
-        if (Flag.AccessCard.Find) ReadCD(0, readBuffer, basaELEM);
     }  //End while
 }
 

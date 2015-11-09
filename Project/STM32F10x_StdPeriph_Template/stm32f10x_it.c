@@ -43,9 +43,12 @@ uint8_t NbrOfDataToTransfer;
 
 uint32_t snCard[25];
 
+extern uint32_t readBuffer[basaSise];
 extern inline void TimingDelayDecrement(void);
 extern void SystickT(void);
  void AnalyzeEXTI(void);
+
+extern void ReadCD(uint8_t , uint32_t* , uint16_t );
 
 //uint8_t exti = 0;
 
@@ -246,6 +249,7 @@ void TIM2_IRQHandler(void)
                 WriteTxt(text_PKD_1);
                 for (Counter.card_i = 0; Counter.card_i <25; Counter.card_i++) snCard[Counter.card_i] = 0x00; //Стриание данных о считанной карты
                 Flag.AccessCard.Find = ON;
+//                ReadCD(0, readBuffer, basaELEM);
             }
             exti = 0;
             Counter.by15ms = 0;
